@@ -1,8 +1,4 @@
-title: test
-date: 2015-11-04 02:56:56
-tags:
+title: 2017年亚马逊贝索斯致股东的一封信
+tags:amazon
 ---
-hello hexo.
-this is my first blog on linode.
-
-it's great
+"hi, Jeff, Day2看起来是什么样的啊？"

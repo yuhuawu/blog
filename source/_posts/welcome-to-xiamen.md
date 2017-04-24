@@ -1,6 +1,6 @@
 title: 美团厦门研发中心欢迎你
 tags: recruitment
-
+english_title: welcome-to-xiamen
 ---
 
 我们一直认为，只有最好的团队、最好的事情，才能吸引最牛逼的人加入我们。
